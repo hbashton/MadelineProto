@@ -74,8 +74,6 @@ vendor
 *bak
 token.php
 *~uploading*
-session.mad
-*.madeline
 enc.tar.xz
 a
 web_data.php
@@ -84,6 +82,4 @@ db_connect.php
 sessions
 docs_md
 
-.env
-composer.lock
 b.php
