@@ -1,5 +1,5 @@
 {
-    "name": "danog/madelineproto",
+    "name": "hbashton/madelineproto",
     "description": "PHP implementation of telegram's MTProto protocol.",
     "type": "project",
     "license": "AGPLV3",
